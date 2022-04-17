@@ -1,3 +1,3 @@
 ### I'M YOCHAN
 
-<h3>I'm a student Developer
+<h6>I'm a student Developer
