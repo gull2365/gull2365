@@ -9,7 +9,7 @@
      NONE.. <br>
 <h4>📁Project<br>
      NONE.. <br>
-<h4>🛠Contact <br>
-     *Discord
+<h4>📞Contact <br>
+     -Discord : Gull#8413
   
   
