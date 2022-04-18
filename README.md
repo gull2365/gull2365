@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-![header](https://capsule-render.vercel.app/api?type=slice)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=welcome%20to my github&animation=blinking&fontSize=80" />
+![header](https://capsule-render.vercel
 
 
 *I'm a Student ~~Developer~~*<br>
