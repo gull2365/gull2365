@@ -9,7 +9,7 @@
 <h4>📁Project📁<br>
      NONE.. <br>
 <h4>📞Contact📞<br>
-     -Discord : Gull#8413
+     -Discord : Gull#8413<br>
      -Email : jych2365@gmail.com
   
   
