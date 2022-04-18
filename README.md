@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=welcome%20to my github&animation=blinking&fontSize=80" />
-![header](https://capsule-render.vercel
 
 
 *I'm a Student ~~Developer~~*<br>
