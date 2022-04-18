@@ -2,10 +2,10 @@
 
 
 
-*I'm a Student ~~Developer~~*
+*I'm a Student ~~Developer~~*<br>
 *I'm still immature and learning. I'm not good enough, but please take care of me*
 
-<h2>🛠Tech stack
+<h4>🛠Tech stack
      NONE..
   
   
