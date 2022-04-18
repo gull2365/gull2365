@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=welcome%20to my github&animation=blinking&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=welcome%20to my github&animation=blinking&fontSize=80" />
 ![header](https://capsule-render.vercel
 
 
