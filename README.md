@@ -10,5 +10,6 @@
      NONE.. <br>
 <h4>📞Contact📞<br>
      -Discord : Gull#8413
+     -Email : jych2365@gmail.com
   
   
