@@ -1,3 +1,6 @@
 ### I'M YOCHAN
 
-<h6>*italic*I'm a Student Developer
+
+
+*italic*I'm a Student Developer
+~~strikethrough~~I'm still immature and learning. I'm not good enough, but please take care of me
