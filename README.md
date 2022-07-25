@@ -5,11 +5,11 @@
 *I'm still immature and learning. I'm not good enough, but please take care of me*
 
 <h4>🛠Tech stack<br>
-     NONE.. <br>
+     JS, React, React-native <br>
 <h4>📁Project📁<br>
-     NONE.. <br>
+     KAP <br>
 <h4>📞Contact📞<br>
-     -Discord : Gull#8413<br>
+     -Discord : wjddycks#8413<br>
      -Email : jych2365@gmail.com
   
   
