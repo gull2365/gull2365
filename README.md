@@ -9,7 +9,7 @@
 <h4>📁Project📁<br>
      KAP <br>
 <h4>📞Contact📞<br>
-     -Discord : wjddycks#8413<br>
+     -Discord : wjddycks#<br>
      -Email : jych2365@gmail.com
   
   
